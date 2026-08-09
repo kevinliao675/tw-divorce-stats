@@ -16,7 +16,7 @@
 
 ## 更新機制
 
-`.github/workflows/update.yml` 每月 12、22 日自動執行 `fetch_stats.py`，有變更才 commit。手動更新：
+`.github/workflows/update.yml` 每月 15 日自動執行 `fetch_stats.py`，有變更才 commit。手動更新：
 
 ```bash
 python3 fetch_stats.py
